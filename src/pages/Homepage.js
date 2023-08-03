@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useInsertionEffect } from "react";
+import React, { useState, useEffect } from "react";
 import Search from "../components/Search";
 import axios from "axios";
 import Picture from "../components/Picture";
